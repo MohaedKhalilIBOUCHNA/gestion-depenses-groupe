@@ -1,0 +1,15 @@
+# Compilateur / build
+build/
+gestion_depenses
+*.o
+*.out
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
